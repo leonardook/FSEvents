@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum FSError: Error {
+public enum FSError: Error {
     case failed
     case sanityCheck
     case unableToCreate
