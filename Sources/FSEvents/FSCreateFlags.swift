@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import CoreServices
 
 public struct FSCreateFlags: OptionSet {
     public typealias RawValue = Int
