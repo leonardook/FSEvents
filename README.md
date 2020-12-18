@@ -1,3 +1,3 @@
-# FSStream
+# FSEvents
 
-A description of this package.
+Wrapper for Apple CoreServices File System Events API
